@@ -1,3 +1,4 @@
+#jordyshort
 def factorize(n):
     if n < 2:
         return f"{n} no tiene factores primos válidos."
